@@ -65,13 +65,6 @@ I'm a .NET Developer with 8+ years of experience, deeply focused on building hig
 - 🚀 [EcommerceMicroservices](https://github.com/EAX3010/EcommerceMicroservices) - Cloud-native e-commerce platform
 
 
-## Focus Areas
-
-- Microservices Architecture
-- High-Performance Systems
-- Clean Architecture
-- Real-time Applications
-
 ---
 
 📍 Cairo, Egypt
