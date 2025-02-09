@@ -10,6 +10,9 @@ While my main focus is backend development, I’ve also spent a good amount of t
 
 At the end of the day, a great programmer knows that the language doesn’t matter that much. It’s all about the logic, the design, and solving problems—just with a little different syntax.
 
+"I’m always eager to learn more, and right now, I’m diving deep into system design and experimenting with different architectures to enhance my ability to build scalable and efficient systems. I’m testing these patterns with my e-commerce microservices project, which, by the end of development, will be production-ready."
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-khaled-97294822a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdallah3010@hotmail.com)
 
