@@ -3,7 +3,7 @@
 
 ### Hi there! 👋
 
-I'm a .NET Developer with 8+ years of experience, obsessed with squeezing the most performance out of every line of code. I don’t just build software—I break it down, analyze how it executes at the assembly level, and fine-tune it for optimal memory efficiency. If a CPU cycle is wasted, it keeps me up at night.
+I'm a .NET Developer with 8+ years of experience, obsessed with squeezing the most performance out of every line of code. I don’t just build software—I break it down, analyze how it executes what the output of IL, and fine-tune it for optimal memory efficiency. If a CPU cycle is wasted, it keeps me up at night.
 
 I thrive on making distributed systems fast, scalable, and ridiculously efficient. Whether it’s cutting down execution time, reducing memory footprint, or ensuring minimal GC pressure, I’m always hunting for that extra bit of performance.
 
