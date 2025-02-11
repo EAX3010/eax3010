@@ -6,7 +6,7 @@ I'm a primarily .NET Developer with 10+ years of experience, and I’m all about
 
 I thrive on building distributed systems that are fast, scalable, and ridiculously efficient. Whether it’s slashing execution time, shrinking memory footprints, or keeping GC pressure low, I’m always chasing that extra bit of performance.
 
-While my main focus is backend development, I’ve also spent a good amount of time working with JavaScript, assembly, reverse engineering, Python, and fine-tuning AI models. And, I’m not just backend-heavy—I’ve got solid frontend skills too, which lets me create interactive, full-stack web applications.
+While my main focus is backend development, I’ve also spent a good amount of time working with JavaScript, Python, assembly - reverse engineering, and fine-tuning AI models. And, I’m not just backend-heavy—I’ve got solid frontend skills too, which lets me create interactive, full-stack web applications.
 
 At the end of the day, a great programmer knows that the language doesn’t matter that much. It’s all about the logic, the design, and solving problems—just with a little different syntax.
 
